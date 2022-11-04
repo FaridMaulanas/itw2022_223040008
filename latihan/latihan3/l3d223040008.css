@@ -1,0 +1,58 @@
+body {
+  background-image: url(background.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: georgia;
+}
+
+h1 {
+  font-family: Comic Sans MS;
+  font-size: 60px;
+  color: darkblue;
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+  font-style: italic;
+}
+
+p {
+  text-align: justify;
+}
+
+a {
+  color: azure;
+}
+
+#coral {
+  color: coral;
+  text-align: center;
+}
+
+.hitam {
+  color: black;
+}
+
+.hitam a {
+  text-decoration: none;
+  font-weight: bold;
+  color: darkblue;
+}
+
+.hitam a:hover {
+  background: darkblue;
+  color: white;
+}
+
+h3 a:hover {
+  color: white;
+}
+h3 a {
+  color: crimson;
+  font-variant: small-caps;
+}
+
+h3 {
+  text-align: center;
+}
